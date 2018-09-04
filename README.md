@@ -36,3 +36,4 @@ exista mais de uma rota, o programa deve sugerir a melhor delas.
 
 ### Representação Visual
 
+![alt text](https://github.com/bearkfear/EDD-SegundoTrabalho/blob/master/Representa%C3%A7%C3%A3oVisual.JPG "RepresentaçãoVisual")
